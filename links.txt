@@ -1,0 +1,3 @@
+https://www.kaggle.com/code/viniciusjamal/urban-eye-an-urban-issue-ai-classifier
+
+https://github.com/vini-mon/Urban_Eye
